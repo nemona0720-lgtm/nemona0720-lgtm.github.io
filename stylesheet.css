@@ -4,3 +4,35 @@ body{
 body{
     color: white;
 }
+.calendar {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  font-size: clamp(10px, 6.429px + 1.116vw, 15px);
+  color: black;
+}
+.calendar__title {
+  margin-bottom: 0.5em;
+  font-size: clamp(20px, 12.857px + 2.232vw, 30px);
+  text-align: center;
+  font-weight: bolder;
+}
+.calendar__table {
+  table-layout: fixed;
+  border-collapse: collapse;
+  width: 100%;
+}
+.calendar__body .calendar__cell {
+  font-weight: bold;
+}
+.calendar__cell {
+  border: 3px solid black;
+  padding: 10px 0;
+  text-align: center;
+  background-color: #ffffff;
+}
+.calendar__cell.is-holiday {
+  color: ;
+  background-color: rgb(202, 202, 202);
+}
