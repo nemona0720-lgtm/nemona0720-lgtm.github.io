@@ -5,22 +5,24 @@ body{
 
 h1{
     font-family: 'Cherry Swash', cursive;
-    font-size: 50px;
+    font-size: 60px;
     margin-left: 0.5em;
 }
 
 h2{
     font-family: 'Cherry Swash', cursive;
-    font-size: 40px;
+    font-size: 50px;
     margin-left: 1em;
 }
 
 h3{
     font-family: 'Sawarabi Mincho', serif;
     margin-left: 2em;
+    font-size: 30px;
 }
 p{
-    margin-left: 2.5em;
+    margin-left: 3em;
+    font-size: 20px;
 }
 
 ul {
@@ -70,4 +72,11 @@ figcaption {
 }
 .calendar__cell.is-holiday {
   background: rgb(202, 202, 202);
+}
+
+.musubi{
+    margin-left: 5em;
+    margin-top: 25em;
+    margin-bottom: 5em;
+    font-size: 12px;
 }
