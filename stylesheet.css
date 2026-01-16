@@ -21,7 +21,8 @@ h1 {
 h2{
     font-family: 'Cherry Swash', cursive;
     font-size: 50px;
-    padding-left: 1em;
+    padding-left: 0.5em;
+    border-left: 5px solid #C9A24D;
 }
 
 h3{
