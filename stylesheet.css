@@ -125,6 +125,8 @@ figcaption {
     background: black;
     color: #C9A24D;
     padding: 2em;
-    margin-top: 5em;
+    margin: 5em auto 0;
     font-size: 12px;
+    max-width: 600px;
+    text-align: left; 
 }
