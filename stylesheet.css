@@ -62,21 +62,21 @@ img {
 .no1 figcaption {
     color: #ffd16d;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 29px;
 }
 .no2 img {
     border-color: silver;
 }
 .no2 figcaption {
     color: silver;
-    font-size: 22px;
+    font-size: 26px;
 }
 .no3 img {
     border-color: burlywood;
 }
 .no3 figcaption {
     color: burlywood;
-    font-size: 22px;
+    font-size: 25px;
 }
 figcaption {
     font-size: 20px;
