@@ -1,8 +1,10 @@
 body{
     background: black;
-}
-body{
     color: white;
+}
+
+h1,h2{
+    font-family: 'Cherry Swash', cursive;
 }
 
 ul {
